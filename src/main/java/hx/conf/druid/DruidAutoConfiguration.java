@@ -1,4 +1,4 @@
-package hx.druid;
+package hx.conf.druid;
 
 import com.alibaba.druid.pool.DruidDataSource;
 import org.springframework.beans.factory.annotation.Autowired;

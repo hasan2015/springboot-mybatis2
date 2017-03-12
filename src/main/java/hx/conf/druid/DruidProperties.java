@@ -1,4 +1,4 @@
-package hx.druid;
+package hx.conf.druid;
 
 import org.springframework.boot.context.properties.ConfigurationProperties;
 
